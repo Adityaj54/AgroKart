@@ -14,7 +14,7 @@ This is the online hybrid application which helps farmers to sell their agricult
 
 ## Steps
 
-- import the database
+- import the empty database
 - clone the codes into the htdocs folder in xampp
 - run the ip //127.0.0.1/**FOLDERNAME** in the browser (foldername is the directory where the code is present)
 - website is good-to-go
