@@ -23,3 +23,7 @@ This is the online hybrid application which helps farmers to sell their agricult
 for django installation follow the documentation [Click Here](https://docs.djangoproject.com/en/1.8/howto/windows/#:~:text=Django%20can%20be%20installed%20easily,version%20in%20the%20command%20prompt.)
 
 To run the project use the command $python manage.py runserver
+
+
+
+Contact me for android codes
